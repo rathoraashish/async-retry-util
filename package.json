@@ -2,8 +2,8 @@
   "name": "async-retry-util",
   "version": "1.0.0",
   "description": "This package can retry a promise-returning function on failure, with customizable retry logic.",
-  "main": "dist/asyncRetry.js",
-  "types": "dist/asyncRetry.d.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
     "test": "jest",
